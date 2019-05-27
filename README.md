@@ -2,6 +2,11 @@
 
 A really simple javascript utility for simulating human-like typing.
 
+
+![alt text](https://media.giphy.com/media/872nRadgHmXK0K4c5F/giphy.gif "Sample output")
+
+
+
 #### Usage
 
 `noise(text, textHandler);`
