@@ -1,0 +1,25 @@
+{
+  "name": "typist",
+  "version": "0.1.0",
+  "description": "generates human-like typying ",
+  "main": "typist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeciorc/typist.git"
+  },
+  "keywords": [
+    "util",
+    "text",
+    "typing",
+    "keys"
+  ],
+  "author": "aeciorc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aeciorc/typist/issues"
+  },
+  "homepage": "https://github.com/aeciorc/typist#readme"
+}
