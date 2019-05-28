@@ -9,7 +9,7 @@ A really simple javascript utility for simulating human-like typing.
 
 #### Usage
 
-`noise(text, textHandler);`
+`typist(text, textHandler);`
 Where text is whatever you want to be typed and handler is your function that modifies the value of the element that will display the text.
 
 ##### React example:
